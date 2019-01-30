@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="377d341e-bd77-4e02-b79e-69768b856464" name="Default Changelist" comment="" />
+    <list default="true" id="377d341e-bd77-4e02-b79e-69768b856464" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/GradescopeSubmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/classes/GradescopeSubmission.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,28 +14,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classes/ColorChooser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="659">
-              <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-              <folding>
-                <element signature="e#1017#1063#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/classes/GradescopeSubmission.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="11" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="11" />
+            <state relative-caret-position="214">
+              <caret line="61" column="25" lean-forward="true" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
               <folding>
                 <element signature="e#263#308#1" expanded="true" />
                 <element signature="e#317#353#1" expanded="true" />
-                <element signature="e#362#384#0" expanded="true" />
-                <element signature="e#362#384#0" expanded="true" />
+                <element signature="e#369#391#0" expanded="true" />
+                <element signature="e#369#391#0" expanded="true" />
                 <element signature="e#806#854#1" expanded="true" />
                 <element signature="e#1204#1252#1" expanded="true" />
                 <element signature="e#1554#1611#1" expanded="true" />
@@ -44,7 +35,19 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classes/IntArrayWorkerTester.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -57,6 +60,7 @@
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -83,7 +87,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548832521108" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548866566647" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -163,6 +167,14 @@
       <option name="presentableId" value="Default" />
       <updated>1548832292297</updated>
     </task>
+    <task id="LOCAL-00001" summary="updated gradescope file">
+      <created>1548834613125</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1548834613125</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -202,6 +214,10 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated gradescope file" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated gradescope file" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/classes/doc/allclasses-frame.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -212,23 +228,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/classes/ColorChooser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="659">
-          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+        <state relative-caret-position="261">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
           <folding>
+            <element signature="e#737#763#0" expanded="true" />
+            <element signature="e#737#763#0" expanded="true" />
             <element signature="e#1017#1063#1" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/classes/IntArrayWorkerTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/classes/GradescopeSubmission.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="11" />
+        <state relative-caret-position="214">
+          <caret line="61" column="25" lean-forward="true" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
           <folding>
             <element signature="e#263#308#1" expanded="true" />
             <element signature="e#317#353#1" expanded="true" />
-            <element signature="e#362#384#0" expanded="true" />
-            <element signature="e#362#384#0" expanded="true" />
+            <element signature="e#369#391#0" expanded="true" />
+            <element signature="e#369#391#0" expanded="true" />
             <element signature="e#806#854#1" expanded="true" />
             <element signature="e#1204#1252#1" expanded="true" />
             <element signature="e#1554#1611#1" expanded="true" />
