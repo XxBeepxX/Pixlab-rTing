@@ -1,9 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="377d341e-bd77-4e02-b79e-69768b856464" name="Default Changelist" comment="">
+    <list default="true" id="8f3c0bb2-b2a0-465e-8879-d0ba10b87148" name="Default Changelist" comment="updated gradescope file">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture Lab Student Guide.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Picture Lab Student Guide.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/ColorChooser.java" beforeDir="false" afterPath="$PROJECT_DIR$/classes/ColorChooser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/DigitalPicture.java" beforeDir="false" afterPath="$PROJECT_DIR$/classes/DigitalPicture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/FileChooser.java" beforeDir="false" afterPath="$PROJECT_DIR$/classes/FileChooser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/classes/GradescopeSubmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/classes/GradescopeSubmission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/ImageDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/classes/ImageDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/IntArrayWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/classes/IntArrayWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/IntArrayWorkerTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/classes/IntArrayWorkerTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Picture.java" beforeDir="false" afterPath="$PROJECT_DIR$/classes/Picture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/PictureExplorer.java" beforeDir="false" afterPath="$PROJECT_DIR$/classes/PictureExplorer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/PictureFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/classes/PictureFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/PictureTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/classes/PictureTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/Pixel.java" beforeDir="false" afterPath="$PROJECT_DIR$/classes/Pixel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/SimplePicture.java" beforeDir="false" afterPath="$PROJECT_DIR$/classes/SimplePicture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/ColorChooser.html" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/ColorChooser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/DigitalPicture.html" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/DigitalPicture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/FileChooser.html" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/FileChooser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/ImageDisplay.html" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/ImageDisplay.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/IntArrayWorker.html" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/IntArrayWorker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/IntArrayWorkerTester.html" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/IntArrayWorkerTester.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/Picture.html" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/Picture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/PictureExplorer.html" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/PictureExplorer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/PictureFrame.html" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/PictureFrame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/PictureTester.html" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/PictureTester.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/Pixel.html" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/Pixel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/SimplePicture.html" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/SimplePicture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/package-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/resources/inherit.gif" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/resources/inherit.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/serialized-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/doc/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/classes/doc/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/leftArrow.gif" beforeDir="false" afterPath="$PROJECT_DIR$/classes/leftArrow.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/rightArrow.gif" beforeDir="false" afterPath="$PROJECT_DIR$/classes/rightArrow.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/640x480.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/640x480.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/7inX95in.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/7inX95in.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/CumberlandIsland.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/CumberlandIsland.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/KatieFancy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/KatieFancy.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/images/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/arch.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/arch.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/barbaraS.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/barbaraS.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/beach.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/beach.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blue-mark.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/blue-mark.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blueMotorcycle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/blueMotorcycle.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/butterfly1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/butterfly1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/caterpillar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/caterpillar.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/femaleLionAndHall.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/femaleLionAndHall.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/flower1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/flower1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/flower2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/flower2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gorge.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gorge.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jenny-red.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/jenny-red.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kitten2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kitten2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/koala.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/koala.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/moon-surface.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/moon-surface.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/msg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/msg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/redMotorcycle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/redMotorcycle.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/robot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/robot.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/seagull.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/seagull.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/snowman.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/snowman.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/swan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/swan.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/temple.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/temple.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thruDoor.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/thruDoor.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wall.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/wall.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/water.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/water.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/whiteFlower.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/whiteFlower.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesOutput/beach.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imagesOutput/beach.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/ColorChooser.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/ColorChooser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/DigitalPicture.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/DigitalPicture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/FileChooser.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/FileChooser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/ImageDisplay.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/ImageDisplay.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/IntArrayWorker.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/IntArrayWorker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/IntArrayWorkerTester.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/IntArrayWorkerTester.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/Picture.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/Picture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/PictureExplorer.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/PictureExplorer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/PictureFrame.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/PictureFrame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/PictureTester.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/PictureTester.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/Pixel.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/Pixel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/SimplePicture.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/SimplePicture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/package-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/resources/inherit.gif" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/resources/inherit.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/serialized-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/doc/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/leftArrow.gif" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/leftArrow.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/rightArrow.gif" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PixLab-TEMPLATE-master/rightArrow.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/ColorChooser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/ColorChooser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/DigitalPicture.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/DigitalPicture.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/FileChooser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/FileChooser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/GradescopeSubmission.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/GradescopeSubmission.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/ImageDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/ImageDisplay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/IntArrayWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/IntArrayWorker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/IntArrayWorkerTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/IntArrayWorkerTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/META-INF/pixLab.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/META-INF/pixLab.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/Picture.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/Picture.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/PictureExplorer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/PictureExplorer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/PictureExplorer$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/PictureExplorer$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/PictureExplorer$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/PictureExplorer$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/PictureExplorer$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/PictureExplorer$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/PictureExplorer$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/PictureExplorer$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/PictureExplorer$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/PictureExplorer$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/PictureExplorer$PictureExplorerFocusTraversalPolicy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/PictureExplorer$PictureExplorerFocusTraversalPolicy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/PictureExplorer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/PictureExplorer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/PictureFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/PictureFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/PictureTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/PictureTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/Pixel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/Pixel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/SimplePicture.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/SimplePicture.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/ColorChooser.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/ColorChooser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/DigitalPicture.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/DigitalPicture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/FileChooser.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/FileChooser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/ImageDisplay.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/ImageDisplay.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/IntArrayWorker.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/IntArrayWorker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/IntArrayWorkerTester.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/IntArrayWorkerTester.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/Picture.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/Picture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/PictureExplorer.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/PictureExplorer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/PictureFrame.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/PictureFrame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/PictureTester.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/PictureTester.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/Pixel.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/Pixel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/SimplePicture.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/SimplePicture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/package-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/resources/inherit.gif" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/resources/inherit.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/serialized-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/doc/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/doc/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/leftArrow.gif" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/leftArrow.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pixLab/rightArrow.gif" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pixLab/rightArrow.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixLab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pixLab.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,25 +169,44 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1073466601">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="567" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="567" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/classes/GradescopeSubmission.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classes/PictureExplorer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="61" column="25" lean-forward="true" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
-              <folding>
-                <element signature="e#263#308#1" expanded="true" />
-                <element signature="e#317#353#1" expanded="true" />
-                <element signature="e#369#391#0" expanded="true" />
-                <element signature="e#369#391#0" expanded="true" />
-                <element signature="e#806#854#1" expanded="true" />
-                <element signature="e#1204#1252#1" expanded="true" />
-                <element signature="e#1554#1611#1" expanded="true" />
-                <element signature="e#1769#1819#1" expanded="true" />
-                <element signature="e#2145#2195#1" expanded="true" />
-                <element signature="e#2353#2400#1" expanded="true" />
-              </folding>
+            <state relative-caret-position="179">
+              <caret line="809" lean-forward="true" selection-start-line="809" selection-end-line="809" />
             </state>
           </provider>
         </entry>
@@ -38,13 +214,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/classes/IntArrayWorkerTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="818">
+              <caret line="100" column="4" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/classes/IntArrayWorker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="132" column="31" selection-start-line="132" selection-start-column="31" selection-end-line="132" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jpg</find>
+      <find>getcount</find>
+      <find>large</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,12 +245,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/classes/GradescopeSubmission.java" />
+        <option value="$PROJECT_DIR$/classes/PictureExplorer.java" />
+        <option value="$PROJECT_DIR$/classes/IntArrayWorkerTester.java" />
+        <option value="$PROJECT_DIR$/classes/IntArrayWorker.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="x" value="-11" />
+    <option name="width" value="2795" />
+    <option name="height" value="1631" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -66,28 +262,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="PixLab-TEMPLATE-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PixLab-TEMPLATE-master" type="462c0819:PsiDirectoryNode" />
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PixLab-TEMPLATE-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PixLab-TEMPLATE-master" type="462c0819:PsiDirectoryNode" />
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
               <item name="classes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548866566647" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549390402590" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -105,8 +303,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="Applet">
+  <component name="RunManager" selected="Application.IntArrayWorkerTester">
+    <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,7 +312,22 @@
     </configuration>
     <configuration name="ColorChooser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ColorChooser" />
-      <module name="PixLab-TEMPLATE-master" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntArrayWorkerTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntArrayWorkerTester" />
+      <module name="untitled" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PictureExplorer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PictureExplorer" />
+      <module name="untitled" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -127,13 +340,12 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG">
+    <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -141,17 +353,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file enabled="true" id="idea.log" />
+      <predefined_log_file id="idea.log" enabled="true" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.ColorChooser" />
+      <item itemvalue="Application.PictureExplorer" />
+      <item itemvalue="Application.IntArrayWorkerTester" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntArrayWorkerTester" />
+        <item itemvalue="Application.PictureExplorer" />
         <item itemvalue="Application.ColorChooser" />
       </list>
     </recent_temporary>
@@ -161,7 +380,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="377d341e-bd77-4e02-b79e-69768b856464" name="Default Changelist" comment="" />
+      <changelist id="8f3c0bb2-b2a0-465e-8879-d0ba10b87148" name="Default Changelist" comment="" />
       <created>1548832292297</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -178,41 +397,45 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="DB Browser" />
-      <window_info id="UI Designer" />
-      <window_info id="Project Explorer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Job Explorer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15870446" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="DB Execution Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Console" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Project Explorer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32894737" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3113879" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3291815" />
+      <window_info anchor="bottom" id="Console" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
     </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updated gradescope file" />
@@ -230,18 +453,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
           <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
-          <folding>
-            <element signature="e#737#763#0" expanded="true" />
-            <element signature="e#737#763#0" expanded="true" />
-            <element signature="e#1017#1063#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/IntArrayWorkerTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -249,18 +460,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
           <caret line="61" column="25" lean-forward="true" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
-          <folding>
-            <element signature="e#263#308#1" expanded="true" />
-            <element signature="e#317#353#1" expanded="true" />
-            <element signature="e#369#391#0" expanded="true" />
-            <element signature="e#369#391#0" expanded="true" />
-            <element signature="e#806#854#1" expanded="true" />
-            <element signature="e#1204#1252#1" expanded="true" />
-            <element signature="e#1554#1611#1" expanded="true" />
-            <element signature="e#1769#1819#1" expanded="true" />
-            <element signature="e#2145#2195#1" expanded="true" />
-            <element signature="e#2353#2400#1" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/PictureExplorer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="809" lean-forward="true" selection-start-line="809" selection-end-line="809" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/IntArrayWorkerTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="818">
+          <caret line="100" column="4" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/IntArrayWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="132" column="31" selection-start-line="132" selection-start-column="31" selection-end-line="132" selection-end-column="31" />
         </state>
       </provider>
     </entry>
